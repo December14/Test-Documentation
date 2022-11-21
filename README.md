@@ -1,6 +1,6 @@
 
 # Test-Documentation
-### Task 1:
+### Task 1 :
  - Analyze the requirements, add all inconsistencies and additional questions on them to the new table
  - Create a checklist for the main page
  - Create test cases for Add Customer functionality 
@@ -9,7 +9,7 @@
 #### [Check list](https://docs.google.com/spreadsheets/d/1JwGdhAaih9IOFSDzBtCWagp5bmx4CEu0H1T8R2Z7iHU/edit?usp=sharing)
 #### [Test Cases](Test_Cases.csv)
 
-### Task 2: 
+### Task 2 : 
 According to the checklist and test cases you created in the previous task, test the main page and the Add Customer page.
 
 - Describe all the bugs found in the proper way in the form of defect reports
