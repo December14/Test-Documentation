@@ -1,5 +1,5 @@
 
-# Test-Documentation
+# Test Documentation
 ### Task 1 :
  - Analyze the requirements, add all inconsistencies and additional questions on them to the new table
  - Create a checklist for the main page
@@ -12,6 +12,6 @@
 ### Task 2 : 
 According to the checklist and test cases you created in the previous task, test the main page and the Add Customer page.
 
-- Describe all the bugs found in the proper way in the form of defect reports
+- Describe all the bugs found properly in the form of defect reports
 ### Solution :
 #### [Bug Reports](Bug_Reports.csv)
